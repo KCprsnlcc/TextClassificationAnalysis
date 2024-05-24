@@ -1,8 +1,6 @@
 ```markdown
 # Emotion Classifier Application
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
 ## Overview
 
 This is a desktop application that classifies emotions from text input using a pre-trained Transformer model. The application utilizes `tkinter` for the GUI, `Pillow` for image handling, and `transformers` from Hugging Face for text classification.
