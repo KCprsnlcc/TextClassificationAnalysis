@@ -1,3 +1,5 @@
+Certainly! Here's the complete README with the XAMPP instruction added:
+
 ```markdown
 # Emotion Classifier Application
 
@@ -23,8 +25,8 @@ This is a desktop application that classifies emotions from text input using a p
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/KCprsnlcc/TextEmotionAnalysis.git
-   cd TextEmotionAnalysis
+   git clone https://github.com/KCprsnlcc/TextClassificationAnalysis.git
+   cd TextClassificationAnalysis
    ```
 
 2. **Install Dependencies:**
@@ -37,6 +39,11 @@ This is a desktop application that classifies emotions from text input using a p
 
 4. **Place Logo:**
    Ensure `logo.png` is in the base directory of the project.
+
+5. **Database Setup:**
+   - Install XAMPP or a similar software for database management.
+   - Start Apache and MySQL modules in XAMPP.
+   - Import the database named `emotion_analysis` using phpMyAdmin or any MySQL client.
 
 ## Usage
 
@@ -112,13 +119,13 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## GitHub Repository
 
-Visit the [GitHub Repository](https://github.com/KCprsnlcc/TextEmotionAnalysis) to contribute, report issues, and access the source code.
+Visit the [GitHub Repository](https://github.com/KCprsnlcc/TextClassificationAnalysis) to contribute, report issues, and access the source code.
 
 ![Fancy GitHub Animation](https://media.giphy.com/media/3o7aCVrj6y9WUWYbo8/giphy.gif)
 
 ---
 
-For more information, visit the [project repository](https://github.com/KCprsnlcc/TextEmotionAnalysis).
+For more information, visit the [project repository](https://github.com/KCprsnlcc/TextClassificationAnalysis).
 ``` 
 
-This README now includes a fancier GitHub animation to make it more visually appealing! If you need further adjustments or have any other requests, feel free to ask.
+Now, the README includes the XAMPP instruction along with all the other details. Let me know if there's anything else you'd like to adjust!
