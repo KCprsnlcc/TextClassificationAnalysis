@@ -1,4 +1,3 @@
-```markdown
 # Emotion Classifier Application
 
 ## Overview
