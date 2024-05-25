@@ -20,8 +20,8 @@ This is a desktop application that classifies emotions from text input using a p
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/KCprsnlcc/TextEmotionAnalysis.git
-   cd TextEmotionAnalysis
+   git clone https://github.com/KCprsnlcc/TextClassificationAnalysis.git
+   cd TextClassificationAnalysis
    ```
 
 2. **Install Dependencies:**
