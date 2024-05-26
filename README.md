@@ -109,7 +109,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## GitHub Repository
 
-Visit the [GitHub Repository](https://github.com/KCprsnlcc/TextEmotionAnalysis) to contribute, report issues, and access the source code.
+Visit the [GitHub Repository](https://github.com/KCprsnlcc/TextClassificationAnalysis) to contribute, report issues, and access the source code.
 
 ![Fancy GitHub Animation](https://media.giphy.com/media/3o7aCVrj6y9WUWYbo8/giphy.gif)
 
