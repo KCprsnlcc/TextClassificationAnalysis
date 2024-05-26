@@ -118,4 +118,4 @@ Visit the [GitHub Repository](https://github.com/KCprsnlcc/TextClassificationAna
 For more information, visit the [project repository](https://github.com/KCprsnlcc/TextEmotionAnalysis).
 ``` 
 
-This README now includes a fancier GitHub animation to make it more visually appealing! If you need further adjustments or have any other requests, feel free to ask.
+
