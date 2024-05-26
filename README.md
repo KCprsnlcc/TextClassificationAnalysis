@@ -96,23 +96,11 @@ This is a desktop application that classifies emotions from text input using a p
    root.mainloop()
    ```
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Acknowledgements
 
 - [Hugging Face](https://huggingface.co/) for providing the pre-trained Transformer models.
 - [Python](https://www.python.org/) for being the programming language of choice.
 - [tkinter](https://docs.python.org/3/library/tkinter.html) for the GUI framework.
 - [Pillow](https://python-pillow.org/) for image handling capabilities.
-
-## GitHub Repository
-
-Visit the [GitHub Repository](https://github.com/KCprsnlcc/TextClassificationAnalysis) to contribute, report issues, and access the source code.
-
-![Fancy GitHub Animation](https://media.giphy.com/media/3o7aCVrj6y9WUWYbo8/giphy.gif)
-
----
 
 
