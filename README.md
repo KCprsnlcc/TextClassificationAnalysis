@@ -115,7 +115,4 @@ Visit the [GitHub Repository](https://github.com/KCprsnlcc/TextClassificationAna
 
 ---
 
-For more information, visit the [project repository](https://github.com/KCprsnlcc/TextEmotionAnalysis).
-``` 
-
 
